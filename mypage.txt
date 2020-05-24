@@ -2,3 +2,7 @@
 Hello react
 
 I am 6666
+
+Hello react
+test conflict
+ resolved
